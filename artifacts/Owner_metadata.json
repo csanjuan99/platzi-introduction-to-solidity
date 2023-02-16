@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Users/carlos/dev/apps/solidity-apps/01-structure.sol": "Owner"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Users/carlos/dev/apps/solidity-apps/01-structure.sol": {
+			"keccak256": "0x09825634767ad3f079cb4497864d1827c5299511ace057b1133435a888003fdf",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://e32d34e953a38d35074a05b58a2edf3245a0d51e0c4724215170ebba2211cd74",
+				"dweb:/ipfs/Qmd8WP8fdGghGZVNLzJc7KWgkBGKsAXFf7Yvg8xv32PzMp"
+			]
+		}
+	},
+	"version": 1
+}

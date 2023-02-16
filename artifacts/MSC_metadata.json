@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Users/carlos/dev/apps/solidity-apps/05-memory-storage-calldata.sol": "MSC"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Users/carlos/dev/apps/solidity-apps/05-memory-storage-calldata.sol": {
+			"keccak256": "0x3824d5d392e3a54c32d1dede3cb35bee488e23a87ca78801d6ee74370b1d01c5",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://49d59cdfb2a861d54c70fe769c33d959061a498388cf95ee0d77cc7c4c99fbd4",
+				"dweb:/ipfs/QmYqa1LnhxAcqpy1jNEVgygPPbxEeVaX8bnJhgCpKGCaKm"
+			]
+		}
+	},
+	"version": 1
+}

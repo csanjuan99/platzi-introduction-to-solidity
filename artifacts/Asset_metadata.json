@@ -1,0 +1,83 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_state",
+						"type": "uint256"
+					}
+				],
+				"name": "StateNotDefined",
+				"type": "error"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_state",
+						"type": "uint256"
+					}
+				],
+				"name": "changeState",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "state",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Users/carlos/dev/apps/solidity-apps/09-errors.sol": "Asset"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Users/carlos/dev/apps/solidity-apps/09-errors.sol": {
+			"keccak256": "0xdbbbb6335b6ba75c2dd1c9e0880fbdd858271121e60c0b66464aeeffe6a1f894",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://9bbe1f5f593a295ddb3cf0f99fde8950b95095e4fdabd558e5c842901cefc28a",
+				"dweb:/ipfs/QmYZ7WDHfcXUEPas15Qfi1Z2TdS51anzKvrSEvfBkCW1rT"
+			]
+		}
+	},
+	"version": 1
+}

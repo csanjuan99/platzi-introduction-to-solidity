@@ -1,0 +1,83 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "bool",
+						"name": "_skinBlock",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "skinBlock",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "skinStatus",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "skin",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Users/carlos/dev/apps/solidity-apps/03-control-structure.sol": "Person"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Users/carlos/dev/apps/solidity-apps/03-control-structure.sol": {
+			"keccak256": "0x8de7e7f9737051ae307d45a9fc4690e5c9eaaa78fbc3debe6a1b32f350ba5583",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://4e2612c0c1629b76d01963affd8680e8f68c30d04392bdd6ea26abda48493ed3",
+				"dweb:/ipfs/QmX26k6PXCxEiJnvEa29TcpaLdXUghe3XxFmvVyF62W3DX"
+			]
+		}
+	},
+	"version": 1
+}

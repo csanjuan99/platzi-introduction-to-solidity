@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Users/carlos/dev/apps/solidity-apps/06-challenge.sol": "TincaCrowdfunding"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Users/carlos/dev/apps/solidity-apps/06-challenge.sol": {
+			"keccak256": "0xbceb52d863fbc00c7747a8678c63b6e2b49b7a155cd4fdc6e263d6d8830065cf",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://a432dbeeaac41492aa2b2d0eb59fa17a354a36e8affc9f843ece95edbbaf6396",
+				"dweb:/ipfs/QmQy7N86XkM9koc2d1uZmEiSaPTAivjJZmUAYLZ3f2oiYN"
+			]
+		}
+	},
+	"version": 1
+}
